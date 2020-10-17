@@ -1,0 +1,16 @@
+director
+genre
+actors
+kaltura_id
+title
+kinopoisk_id
+title_en
+description
+duration
+thumbnail
+countries
+year
+translator
+embed_url
+category_id
+date
