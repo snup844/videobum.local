@@ -16,24 +16,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c9fae65-b3bd-4b16-ab8a-920660110e20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/inc/footer.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/inc/header.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/inc/partners.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/inc/premiere.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/inc/slider.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/main.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2020_10_16_231735_create_video_models_table.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dock/base.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mydock/base" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/home/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/sss.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/agg/base.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/ssss.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home/about.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-    </list>
+    <list default="true" id="5c9fae65-b3bd-4b16-ab8a-920660110e20" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -222,7 +205,7 @@
       <workItem from="1602892739548" duration="242000" />
       <workItem from="1602899625245" duration="805000" />
       <workItem from="1602948852546" duration="16115000" />
-      <workItem from="1602980565217" duration="7400000" />
+      <workItem from="1602980565217" duration="7707000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit dfvdsfse xcvcxv">
       <created>1602953354438</created>
@@ -231,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602953354438</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit dfvdsfse xcvcxv">
+      <created>1602993909504</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602993909504</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,7 +238,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
@@ -264,6 +254,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="serega" />
+    <MESSAGE value="Initial commit запись в базу" />
     <MESSAGE value="Initial commit dfvdsfse xcvcxv" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit dfvdsfse xcvcxv" />
   </component>
@@ -272,10 +263,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="432" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1602892913612" />
-    <state x="274" y="0" key="CommitChangelistDialog2" timestamp="1602953351178">
+    <state x="274" y="0" key="CommitChangelistDialog2" timestamp="1602993902603">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="274" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1602953351178" />
+    <state x="274" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1602993902603" />
     <state x="478" y="123" key="FileChooserDialogImpl" timestamp="1602950866073">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -288,10 +279,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="479" y="65" key="Github.UntrackedFilesDialog/0.0.1366.738@0.0.1366.738" timestamp="1602953271280" />
-    <state x="263" y="104" key="IDE.errors.dialog" timestamp="1602951133344">
+    <state x="263" y="104" key="IDE.errors.dialog" timestamp="1602994084067">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="263" y="104" key="IDE.errors.dialog/0.0.1366.738@0.0.1366.738" timestamp="1602951133344" />
+    <state x="263" y="104" key="IDE.errors.dialog/0.0.1366.738@0.0.1366.738" timestamp="1602994084067" />
     <state x="441" y="86" key="NewPhpClassDialog" timestamp="1602954173628">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -304,10 +295,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="192" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1602953198191" />
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1602993837410">
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1602994144144">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1602993837410" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1602994144144" />
     <state x="486" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602952974677">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
